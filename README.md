@@ -5,7 +5,7 @@ Contains pytorch implementation of image style transfer paper released in 2016.
 # Demo:
 
 ### Video Inference
-[![Video Example](https://github.com/MuhammadBilal848/Pytorch-Implementation-of-Image-Style-Transfer-Paper-/blob/main/results/output.mp4)
+![Video Example](https://github.com/MuhammadBilal848/Pytorch-Implementation-of-Image-Style-Transfer-Paper-/blob/main/results/output.mp4)
 
 ### Example # 1
 ![Example # 1](https://github.com/MuhammadBilal848/Pytorch-Implementation-of-Image-Style-Transfer-Paper-/blob/main/results/ubit%20x%20femme%20nue%20assise%201.png)
