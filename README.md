@@ -12,3 +12,6 @@ Contains pytorch implementation of image style transfer paper released in 2016.
 
 ### Example # 3
 ![Example # 3](https://github.com/MuhammadBilal848/Pytorch-Implementation-of-Image-Style-Transfer-Paper-/blob/main/results/faisal_masjid%20x%20starry%20night.png)
+
+### Example # 4
+![Example # 4](https://github.com/MuhammadBilal848/Pytorch-Implementation-of-Image-Style-Transfer-Paper-/blob/main/results/Untitled%20(3).png)
